@@ -3,7 +3,7 @@ class DisplayOccurance
 {
 	public static void main(String args[])
 	{
-		String input = "BABAKADHABA";
+		String input = "BABAKADHABAKAKI";
 		Scanner sc = new Scanner(System.in);
 		input = sc.next();
 		String eachChars[] = new String[input.length()];
